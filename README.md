@@ -37,32 +37,27 @@ Salary by Employment Type
 Overall Average Salary
 
 ## 🔍 Key Insights from the Analysis
-💼 Role-Based Salary Trends
 
-Senior and specialized technical roles command significantly higher salaries compared to entry-level positions.
+Senior and specialized technical roles earn significantly higher salaries than entry-level positions.
 
-Data engineering and advanced analytics roles emerge as top-paying job categories.
+Data engineering and advanced analytics roles are among the highest-paying job categories.
 
-🌍 Geographic Salary Differences
+The United States offers higher average salaries compared to other countries.
 
-Salaries in countries like the United States are notably higher than in other regions.
+Geographic location strongly impacts compensation levels.
 
-Location plays a major role in compensation structure and market value.
+Salary increases consistently with experience and seniority.
 
-📈 Experience Impact
+Contract and freelance roles often provide higher short-term pay than full-time roles.
 
-Salary increases consistently with experience level and seniority.
+Full-time roles offer more stability but relatively lower monthly earnings.
 
-Senior professionals earn substantially more than junior and mid-level employees.
+Specialized technical skills are in high demand and linked to higher salary growth.
 
-📄 Employment Type Influence
+## 📊 Dashboard 
 
-Contract and freelance roles often offer higher short-term pay compared to full-time roles.
+<img width="1894" height="806" alt="Screenshot 2026-01-31 172525" src="https://github.com/user-attachments/assets/dcf6923b-a2de-4b2b-9c8c-682e78577ccd" />
 
-Full-time positions provide more stable but relatively lower monthly compensation.
 
-🧠 Market Demand Trends
-
-Specialized technical roles show strong demand and higher compensation growth.
 
 
