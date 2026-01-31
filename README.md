@@ -58,6 +58,22 @@ Specialized technical skills are in high demand and linked to higher salary grow
 
 <img width="1894" height="806" alt="Screenshot 2026-01-31 172525" src="https://github.com/user-attachments/assets/dcf6923b-a2de-4b2b-9c8c-682e78577ccd" />
 
+## 🚀 Skills Demonstrated
+
+Data Cleaning & Transformation
+
+Excel Pivot Tables & KPI Creation
+
+Data Visualization & Dashboard Design
+
+Salary Trend Analysis
+
+Business Insight Generation
+
+## ✅ Final Conclusion
+
+This project demonstrates the effective use of Excel to analyze salary data and present insights through an interactive dashboard. The analysis shows that experience level, job specialization, geographic location, and employment type play a major role in determining salary trends, highlighting practical data analysis and visualization skills suitable for data-driven roles.
+
 
 
 
