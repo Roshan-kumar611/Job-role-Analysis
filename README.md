@@ -1,1 +1,6 @@
-# Job-role-Analysis
+# 💼 Job Role & Salary Analysis – Interactive Excel Dashboard
+## 📌 Project Summary
+
+This project analyzes job role and salary data to uncover compensation trends across different positions, experience levels, countries, and employment types. Using Microsoft Excel, the raw dataset was cleaned, processed, and transformed into meaningful insights through structured analysis and interactive visualizations.
+
+The dashboard provides a comprehensive overview of salary distribution and market demand, enabling data-driven understanding of how various factors influence earnings in the data and technology industry.
