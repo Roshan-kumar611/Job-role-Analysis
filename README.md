@@ -6,7 +6,20 @@ This project analyzes job role and salary data to uncover compensation trends ac
 The dashboard provides a comprehensive overview of salary distribution and market demand, enabling data-driven understanding of how various factors influence earnings in the data and technology industry.
 
 ## 📑 DataSet
-
 <a href = "https://github.com/Roshan-kumar611/Job-role-Analysis/blob/main/project_1.xlsx">Data<a>
+
+## 🎯 Analytical Objectives
+
+Analyze salary distribution across different job roles
+
+Compare compensation levels by country and region
+
+Evaluate the impact of experience level on salary growth
+
+Assess salary variations based on employment type
+
+Identify high-paying and high-demand roles
+
+Present insights through an interactive Excel dashboard
 
 
